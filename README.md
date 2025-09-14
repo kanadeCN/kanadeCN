@@ -11,7 +11,7 @@ I'm learning:
 
 My development tools & platforms:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Microsoft Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-2088FF?style=flat-square&logo=Cloudflare&logoColor=orange) ![iOS](https://img.shields.io/badge/-iPadOS_16.3.1-black?style=flat-square&logo=Apple&logoColor=fff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Microsoft Edge](https://img.shields.io/badge/-Microsoft%20Edge-0078D7?style=flat-square&logo=Microsoft%20Edge&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-2088FF?style=flat-square&logo=Cloudflare&logoColor=orange) ![iOS](https://img.shields.io/badge/-iPadOS_16.3.1-black?style=flat-square&logo=Apple&logoColor=fff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![LinuxMint](https://img.shields.io/badge/-LinuxMint-E95420?style=flat-square&logo=LinuxMint&logoColor=fff) 
 
 ### Project(s)
 
